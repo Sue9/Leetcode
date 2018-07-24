@@ -15,6 +15,25 @@ class Solution(object):
         :rtype: int
         """
         
+        res, last = 0, None  # res 保存结果， last 记录上个一个1出现的位置。
+        for i in range(32):
+            print (i, " : N = ", N , " res = " , res, " last = ", last)
+            if (N >> i) & 1:
+                print("    in if-loop: " )
+                print("\t\t N>>i = ", N>>i)
+                print("\t\t res  = " , res)
+                print("\t\t last =" , last)
+                if last is not None:  # 现在的 i，表示1 出现的位置
+                    res = max(res, i - last)  # 更新结果
+                    print("\t\t\t\t two ifs: ")
+                    print("\t\t\t\t i-last = " , i - last)
+                last = i
+        return res
+        
+        
+        """
+        My solution
+        
         bstr = bin(N)[2:]
         numOne = bstr.count('1')
         if( numOne ) <= 1:
@@ -30,4 +49,4 @@ class Solution(object):
                 left = i
                 
         return max(gaps)
-        
+        """
