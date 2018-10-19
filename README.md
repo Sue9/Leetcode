@@ -5,6 +5,7 @@ ID  | Problem                      | Difficulty | Topic                        |
 ----|------------------------------|------------|------------------------------|-----------
 046 | Permutations                 |
 094 | Binary Tree Inorder Traversal|
+100 | Same Tree                    | Easy       |                              | Python
 101 | Symeetric Tree               | Easy       | Tree, DFS? BFS?              | Python
 104 | Maximum Depth of Binary Tree | Easy       | DFS, Tree                    | Python
 136 | Single Number                | Easy       | Hash Table, Bit Manipulation | Python
@@ -12,6 +13,7 @@ ID  | Problem                      | Difficulty | Topic                        |
 171 | Excel Sheet column Number    |
 202 | Happy Number
 206 | Reverse Linked List
+217 | Contains Duplicate           | Easy       | Array, Set                   | Python
 226 | Invert Binary Tree
 238 | Product of Array Except Self
 242 | Valid Anagram

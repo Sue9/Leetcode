@@ -23,6 +23,9 @@ class Solution(object):
         :type q: TreeNode
         :rtype: bool
         """
+        
+        
+        #recursively
         if p is None and q is None:
             return True
         elif p is None and q is not None:
