@@ -8,6 +8,7 @@ ID  | Problem                      | Difficulty | Topic                        |
 100 | Same Tree                    | Easy       | Tree, DFS?                   | Python
 101 | Symeetric Tree               | Easy       | Tree, DFS? BFS?              | Python
 104 | Maximum Depth of Binary Tree | Easy       | DFS, Tree                    | Python
+121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python
 136 | Single Number                | Easy       | Hash Table, Bit Manipulation | Python
 169 | Majority Element             | Easy       | Bit Manupulation             | Python
 171 | Excel Sheet column Number    | Easy       |                              | Python
