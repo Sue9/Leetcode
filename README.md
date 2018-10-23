@@ -23,7 +23,6 @@ ID  | Problem                      | Difficulty | Topic                        |
 292 | Nim Game						| Easy		| 								| Python
 326 | Power of Three				| Easy 		| 1162261467					| Python
 344 | Reverse String				| Easy		| 								| Python
-
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python
 371 | Sum of Two Integers			| Easy		| Bit Manipulation				| Python
 389 | Find the Difference			| Easy		| 								| Python
