@@ -2,7 +2,7 @@
 
 
 ID  | Problem 				       	| Difficulty| Topic                        	| Solutions (faster than)
-----|------------	---------------	|-----------|------------------------------	|-----------
+----|------------------------------	|-----------|------------------------------	|--------------------------
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
 066 | Plus One						| Easy		| 								| Python (60.37%)
