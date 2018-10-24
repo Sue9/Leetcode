@@ -1,7 +1,7 @@
 ## My solutions to Leetcode
 
 
-ID  | Problem                      | Difficulty | Topic                        | Solutions
+ID  | Problem                      | Difficulty | Topic                        | Solutions (faster than)
 ----|------------------------------|------------|------------------------------|-----------
 046 | Permutations                 | Medium     | Backtracking                 | Python
 094 | Binary Tree Inorder Traversal| Medium     | Hash Table? Stack, Tree      | Python
@@ -25,6 +25,7 @@ ID  | Problem                      | Difficulty | Topic                        |
 344 | Reverse String				| Easy		| 								| Python
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python
 371 | Sum of Two Integers			| Easy		| Bit Manipulation				| Python
+387 | First Unique Character in a String | Easy	| 								| Python (8.08%)
 389 | Find the Difference			| Easy		| 								| Python
 412 | Fizz Buzz						| Easy		| 								| Python
 461 | Hamming Distance				| Easy		| Bit Manipulation				| Python
