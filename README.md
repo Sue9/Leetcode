@@ -6,6 +6,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
 066 | Plus One						| Easy		| 								| Python (60.37%)
+070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
