@@ -19,6 +19,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
 171 | Excel Sheet column Number    	| Easy     	|                              	| Python (82.73%)
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
+191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
 206 | Reverse Linked List
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
