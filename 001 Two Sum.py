@@ -19,7 +19,6 @@ class Solution(object):
         for i in range(len(nums)):
             rem = target - nums[i]
             if rem in nums[i+1:]:
-                
                 twoInd = [i, nums[i+1:].index(target - nums[i])+i+1]
                 return twoInd
         

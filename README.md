@@ -13,6 +13,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
 104 | Maximum Depth of Binary Tree 	| Easy     	| DFS, Tree                    	| Python (58.98%)
+118 | Pascal Triangle				| Easy		|								| Python (100%)
 121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python (100%)
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
