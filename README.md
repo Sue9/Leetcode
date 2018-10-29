@@ -8,6 +8,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm
 066 | Plus One						| Easy		| 								| Python (60.37%)
+069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
