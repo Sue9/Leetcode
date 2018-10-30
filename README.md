@@ -19,6 +19,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
 171 | Excel Sheet column Number    	| Easy     	|                              	| Python (82.73%)
+172 | Factorial Trailing Zeroes		| Easy		| Math 							| Python (99.01%)
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
