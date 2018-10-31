@@ -4,6 +4,7 @@
 ID  | Problem 				       	| Difficulty| Topic                        	| Solutions (faster than)
 ----|------------------------------	|-----------|------------------------------	|--------------------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
+007 | Reverse Integer 				| Easy		|								| Python (100%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm
