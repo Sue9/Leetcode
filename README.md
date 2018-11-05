@@ -5,9 +5,10 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 ----|------------------------------	|-----------|------------------------------	|--------------------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
 007 | Reverse Integer 				| Easy		|								| Python (100%)
+022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
-053	| Maximum Subarray				| Easy		| DP: Kadene algorithm
+053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
