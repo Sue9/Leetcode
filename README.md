@@ -5,6 +5,9 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 ----|------------------------------	|-----------|------------------------------	|--------------------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
 007 | Reverse Integer 				| Easy		|								| Python (100%)
+020 | Valid Parentheses 			| Easy 		| Stack							| Python (79.66%)
+021 | Merge Two Sorted Lists 		| Easy		| Linked Lists 					| Python (23.51%)
+    | (shorter version)				|			|								| Python (92.27%)
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
