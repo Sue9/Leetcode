@@ -29,14 +29,15 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
-206 | Reverse Linked List 			| Easy		| Linked List 					| Python (33.13%)
+206 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
+206-2 | recursive					|			|								| Python (6.77%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
 268 | Missing Number			   	| Easy     	| Bit Manipulation 			   	| Python (13.86%)
 283 | Move Zeroes					| Easy		| 								| Python (21.09%)
-287 Find the Duplicate Number
+287 | Find the Duplicate Number
 292 | Nim Game						| Easy		| 								| Python (94.98%)
 326 | Power of Three				| Easy 		| 1162261467					| Python (65.91%)
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
