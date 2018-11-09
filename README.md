@@ -7,7 +7,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 007 | Reverse Integer 				| Easy		|								| Python (100%)
 020 | Valid Parentheses 			| Easy 		| Stack							| Python (79.66%)
 021 | Merge Two Sorted Lists 		| Easy		| Linked Lists 					| Python (23.51%)
-    | (shorter version)				|			|								| Python (92.27%)
+021-2 | (shorter version)				|			|								| Python (92.27%)
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
@@ -29,13 +29,14 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
-206 | Reverse Linked List
+206 | Reverse Linked List 			| Easy		| Linked List 					| Python (33.13%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
 268 | Missing Number			   	| Easy     	| Bit Manipulation 			   	| Python (13.86%)
 283 | Move Zeroes					| Easy		| 								| Python (21.09%)
+287 Find the Duplicate Number
 292 | Nim Game						| Easy		| 								| Python (94.98%)
 326 | Power of Three				| Easy 		| 1162261467					| Python (65.91%)
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
