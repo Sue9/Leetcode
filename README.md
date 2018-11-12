@@ -44,6 +44,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
 344 | Reverse String				| Easy		| 								| Python (1.64%)
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python (0%???)
+349 | Intersection of Two Arrays   	| Easy 		| Hash Table 					| Python (30.31%)
 350 | Intersection of Two Arrays II | Easy		| Hash Table 					| Python (99.76%)
 371 | Sum of Two Integers			| Easy		| Bit Manipulation				| Python (100%)
 387 | First Unique Character in a String | Easy	| 								| Python (8.08%)
