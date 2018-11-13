@@ -15,8 +15,13 @@ class Solution(object):
         if len(nums) <= 1:
             return len(nums)
         
-        left = 0
-        right = len(nums) - 1
+        left  = 0
+        right = 1
         
-        while 
+        while right < len(nums):
+            if nums[right] not in nums[0:left+1]:
+                right += 1
+                left  += 1
+            else:
+                
         
