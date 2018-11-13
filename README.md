@@ -5,6 +5,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 ----|------------------------------	|-----------|------------------------------	|--------------------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
 007 | Reverse Integer 				| Easy		|								| Python (100%)
+013 | Roman to Integer 				| Easy 		| 								| Python (15.40%)
 020 | Valid Parentheses 			| Easy 		| Stack							| Python (79.66%)
 021 | Merge Two Sorted Lists 		| Easy		| Linked Lists 					| Python (23.51%)
 021-2 | (shorter version)				|			|								| Python (92.27%)
@@ -15,6 +16,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
+088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
