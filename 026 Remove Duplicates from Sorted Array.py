@@ -15,13 +15,15 @@ class Solution(object):
         if len(nums) <= 1:
             return len(nums)
         
-        left  = 0
-        right = 1
+        cnt = 0
         
-        while right < len(nums):
-            if nums[right] not in nums[0:left+1]:
-                right += 1
-                left  += 1
-            else:
+        for i in range(1,len(nums)):
+            if nums[i] != nums[cnt]:
+                cnt += 1
+                nums[cnt] = nums[i]
+        return cnt+1
+        
+        
+                
                 
         

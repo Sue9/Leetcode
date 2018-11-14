@@ -10,6 +10,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 021 | Merge Two Sorted Lists 		| Easy		| Linked Lists 					| Python (23.51%)
 021-2 | (shorter version)				|			|								| Python (92.27%)
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
+026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
