@@ -32,6 +32,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 172 | Factorial Trailing Zeroes		| Easy		| Math 							| Python (99.01%)
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
 189 | Rotate Array  				| Easy  	| 								| Python (96.79%)
+198 | Horse
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
 206 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
