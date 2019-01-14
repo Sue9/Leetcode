@@ -17,16 +17,17 @@ class TreeNode(object):
         
         
 class Solution(object):
-    def getAllNodes(self, root):
+    def inOrder(self, root, s):
         """
         :type root: TreeNode
-        :rtype: List(Int)
+        :type s: int
+        :rtype: TreeNode
         """
-       
-        if not root:
-            return []
+        if(root is None):
+            return root
+        if(root.right is None)
         
-        return [root.val] + self.getAllNodes(root.left) + self.getAllNodes(root.right)
+        
         
         
     
@@ -36,5 +37,5 @@ class Solution(object):
         :rtype: TreeNode
         """
         
-        nodes = self.getAllNodes(self, root)
+        return inOrder(root, 0)
         
