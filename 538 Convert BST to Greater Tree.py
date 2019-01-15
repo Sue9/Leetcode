@@ -16,26 +16,34 @@ class TreeNode(object):
         
         
         
-class Solution(object):
+class Solution(object):     
+        
     def inOrder(self, root, s):
         """
         :type root: TreeNode
-        :type s: int
-        :rtype: TreeNode
+        :type s: Int
+        :rtype: Int
         """
         if(root is None):
-            return root
-        if(root.right is None)
+            return s
+        
+        s = self.inOrder(root.right, s)
+        
+        s += root.val
+        root.val = s
+        
+        s = self.inOrder(root.left, s)
+        
+        return s
         
         
-        
-        
-    
     def convertBST(self, root):
         """
         :type root: TreeNode
         :rtype: TreeNode
         """
         
-        return inOrder(root, 0)
+        s = self.inOrder(root, 0)
+        
+        return root
         
