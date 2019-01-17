@@ -62,6 +62,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 538 | Convert BST to Greater Tree   | Easy      | BST                           | Python (46.27%)
 543 | Diameter of Binary Tree  		| Easy		| Tree 							| Python (6.04%)
 572 | Subtree of Another Tree 		| Easy 		| Tree 							| Python (73.37%)
+589 | N-ary Tree Preorder Traversal | Easy 		| Tree Traversal 				| Python (89.95%)
 595 | Big Countries					| Easy		|								| MySQL	(53.68%)
 617 | Merge Two Binary Trees		| Easy		| Tree 							| Python (59.7%)
 620 | Not Boring Movies				| Easy		|								| MySQL (0%)
@@ -71,7 +72,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 797 | All Paths From Source to Target| Medium	|
 804 | Unique Morse Code Words		| Easy		|								| Python (88.85%)
 807 | Matrix Increase to Keep City Skyline| Medium | 							| Python (98.88%)
+814 | Binary Tree Pruning 			| Medium  	| Tree  						| Python (92.31%)
 868 | Binary Gap					| Easy		|								| Python (76.41%)
-
+965 | Univalued Binary Tree 		| Easy 		| Tree 							| Python (50.79%)
 
 
