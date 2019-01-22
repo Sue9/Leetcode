@@ -19,39 +19,37 @@ class Solution(object):
     def findTiltHelper(self, root):
         """
         :type root: TreeNode
-        :rtype(subtree tile, sumNode): (int, int)
+        :rtype(subtree tilt): int
         """
         if (root is None):
-            return (0, 0)
+            return 0
             
         if (root.left is None) and (root.right is None):
-            return (0, 0)
-            
-        elif (root.left is None) and (root.right is not None):
-            leftTilt = 0
-            leftNodes = 0
-            (rightTilt, rightNodes) = self.findTiltHelper(root.right)
-            thisTilt = abs(rightNodes + root.right.val)
+            return 0
         
-        elif (root.left is not None) and (root.right is None):
-            (leftTilt, leftNodes) = self.findTiltHelper(root.left)
-            rightTilt = 0
-            rightNodes = 0
-            thisTilt = abs(leftNodes + root.left.val)
-        else: 
-            (leftTilt, leftNodes) = self.findTiltHelper(root.left)
-            (rightTilt, rightNodes) = self.findTiltHelper(root.right)
-            thisTilt = abs(root.left.val + leftNodes - root.right.val - rightNodes)
-            
+        leftTilt = self.findTiltHelper(root.left)
+        rightTilt = self.findTiltHelper(root.right)
+        thisTilt = abs(self.sumNodes(root.left) - self.sumNodes(root.right))
         
-        return (leftTilt + rightTilt + thisTilt, leftNodes + rightNodes)
+        return (leftTilt + rightTilt + thisTilt)
         
+    
+    def sumNodes(self, root):
+        """
+        Return all node values of this tree
+        :type root: TreeNode
+        :rtype: int
+        """
+        if(root is None):
+            return 0
         
+        return self.sumNodes(root.left) + self.sumNodes(root.right) + root.val
+    
         
     def findTilt(self, root):
         """
         :type root: TreeNode
         :rtype: int
         """
-        (tilt, sumNodes) = self.findTiltHelper(root)
+        tilt = self.findTiltHelper(root)
         return tilt
