@@ -36,6 +36,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 198 | Horse
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 202 | Happy Number
+203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
+203-2 | iteratively 				| Easy 		| Linked List, iterative way 	| Python (78.05%)
 206 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
 206-2 | recursive					|			|								| Python (6.77%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
