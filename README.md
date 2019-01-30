@@ -1,8 +1,8 @@
 ## My solutions to Leetcode
 
 
-ID  | Problem 				       	| Difficulty| Topic                        	| Solutions (faster than)
-----|------------------------------	|-----------|------------------------------	|--------------------------
+ID  | Problem 				       	| Difficulty| Topic                        	| Solutions (faster than)	|Rate(0-5)
+----|------------------------------	|-----------|------------------------------	|---------------------------|------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
 007 | Reverse Integer 				| Easy		|								| Python (100%)
 013 | Roman to Integer 				| Easy 		| 								| Python (15.40%)
@@ -17,6 +17,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
+083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
@@ -42,6 +43,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 206-2 | recursive					|			|								| Python (6.77%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
+237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 	| negative
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
 268 | Missing Number			   	| Easy     	| Bit Manipulation 			   	| Python (13.86%)
