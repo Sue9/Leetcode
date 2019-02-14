@@ -83,6 +83,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 814 | Binary Tree Pruning 			| Medium  	| Tree  						| Python (92.31%)
 868 | Binary Gap					| Easy		|								| Python (76.41%)
 872 | Leaf-Similar Trees 			| Easy   	| Tree 							| Python (37.42%)
+876 | Middle of the Linked List 	| Easy 		| Linked list 					| Python (96.59%) 		| 2
 965 | Univalued Binary Tree 		| Easy 		| Tree 							| Python (50.79%)
 
 
