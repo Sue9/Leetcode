@@ -29,6 +29,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python (100%)
 125 | Valid Palindrome				| Easy		|								| Python (3.92%)
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
+160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
 171 | Excel Sheet column Number    	| Easy     	|                              	| Python (82.73%)
 172 | Factorial Trailing Zeroes		| Easy		| Math 							| Python (99.01%)
@@ -43,6 +44,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 206-2 | recursive					|			|								| Python (6.77%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
+234 | Palindrome Linked List 		| Easy 		| Linked list, Stack 			| Python (97.41%)	| 3
 237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 	| negative
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
