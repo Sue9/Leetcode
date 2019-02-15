@@ -75,6 +75,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 617 | Merge Two Binary Trees		| Easy		| Tree 							| Python (59.7%)
 620 | Not Boring Movies				| Easy		|								| MySQL (0%)
 654 | Maximum Binary Tree 			| Medium	| Tree  						| Python (59.06%)
+707 | Design Linked List 			| Easy 		| Linked list 					| Python
 709 | To Lower Case 				| Easy		| 								| Python (90.73%)
 771 | Jewels and Stones				| Easy		| 								| Python (13.93%)
 797 | All Paths From Source to Target| Medium	|
