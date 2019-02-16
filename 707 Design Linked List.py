@@ -73,7 +73,7 @@ class MyLinkedList(object):
             while (c):
                 p = p.next
                 c -= 1
-                p.next = node
+            p.next = node
 #            self.list = p
         self.size += 1
         
@@ -110,21 +110,30 @@ class MyLinkedList(object):
         :type index: int
         :rtype: void
         """
+        #empty linked list
         if(self.size == 0):
             return
         
+        #if the index is invalid
         if (index > self.size - 1) or (index < 0):
             return
         #(index <= self.size - 1) and (index >= 0)
-        #(self.size != 0)
-        else:
+        #(self.size != 0) or (self.size > 0), which means the linked list has at least one element
+        elif (index == 0):
+            self.list = self.list.next
+            self.size -= 1 
             return
-            
-            
+        #index > 0
+        else:            
+            prev = self.MyNode(-1, self.list)
+            while (index):
+                prev = prev.next
+                index -= 1
+            prev.next = prev.next.next
+            self.size -= 1     
+                 
+               
         
-        
-        
-        self.size -= 1
         
 
 

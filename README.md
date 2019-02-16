@@ -29,6 +29,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python (100%)
 125 | Valid Palindrome				| Easy		|								| Python (3.92%)
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
+141 | Linked List Cycle 			| Easy 		| Linked list, two pointers 	| Python (94.54%) 			| 5
+155 | Min Stack 					| Easy 		| Stack 						| Python (91.13%) 			| 3
 160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
 171 | Excel Sheet column Number    	| Easy     	|                              	| Python (82.73%)
@@ -75,7 +77,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 617 | Merge Two Binary Trees		| Easy		| Tree 							| Python (59.7%)
 620 | Not Boring Movies				| Easy		|								| MySQL (0%)
 654 | Maximum Binary Tree 			| Medium	| Tree  						| Python (59.06%)
-707 | Design Linked List 			| Easy 		| Linked list 					| Python
+707 | Design Linked List 			| Easy 		| Linked list 					| Python (65.74%)  		| 5
 709 | To Lower Case 				| Easy		| 								| Python (90.73%)
 771 | Jewels and Stones				| Easy		| 								| Python (13.93%)
 797 | All Paths From Source to Target| Medium	|
