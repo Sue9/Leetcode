@@ -42,10 +42,12 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 202 | Happy Number
 203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
 203-2 | iteratively 				| Easy 		| Linked List, iterative way 	| Python (78.05%)
+204 | Count Primes 					| Easy 		| Math 							| Python (91.52%) 	| 5
 206 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
 206-2 | recursive					|			|								| Python (6.77%)
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
+230 | Kth Smallest Element in a BST | Medium 	| Tree 							| Python (16.16%) 	| 3
 234 | Palindrome Linked List 		| Easy 		| Linked list, Stack 			| Python (97.41%)	| 3
 237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 	| negative
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
