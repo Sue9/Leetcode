@@ -13,11 +13,12 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
-046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%)
+046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%) 			| 5
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
+077 | Combinations 					| Medium 	| Backtracking 					| Python (59.96%)			| 5
 078 | Subsets 						| Medium 	| Backtracking, Bit Manipulation | Python () 
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
