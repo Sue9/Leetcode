@@ -23,7 +23,10 @@ class Solution(object):
             res.append(c[:])
             return
         
-        for i in range(start, n + 1):
+        # find k - len(c) elements in [start, n]
+        # (n - start + 1) >= k - len(c)
+        # start <= n - (k - len(c)) + 1
+        for i in range(start, n - (k - len(c)) + 2):
             
             c.append(i)
             
