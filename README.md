@@ -14,6 +14,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%) 			| 5
+047 | Permutations II 				| Medium 	| Backtracking 					| Python (77.26%) 			| 4
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
