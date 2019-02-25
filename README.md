@@ -13,6 +13,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
+039 | Combination Sum 				| Medium 	| Backtracking 					| Python (60.89%) 			| 4
+040 | Combination Sum II 			| Medium 	| Backtracking 					| Python (73.57%) 			| 4
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%) 			| 5
 047 | Permutations II 				| Medium 	| Backtracking 					| Python (77.26%) 			| 4
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
