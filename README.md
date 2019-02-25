@@ -21,6 +21,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
 077 | Combinations 					| Medium 	| Backtracking 					| Python (59.96%)			| 5
 078 | Subsets 						| Medium 	| Backtracking					| Python (100%) 			| 4 
+079 | Word Search 					| Medium 	| Backtracking 					| Python (5.11%) 			| 5
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
