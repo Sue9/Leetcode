@@ -13,26 +13,23 @@ class Solution(object):
         if (k == 1) and (n >= start) and (n <= 9):
             c.append(n)
             res.append(c[:])
-            print("Have a result c = ", c)
+            c.pop()
             return
         
         if (k <= 1):
             return
         
-        if (n < start) or (n > 9):
+        if (n < start):
             return
         
         #k > 1
-        for i in (start, min(9, n) + 1):
+        for i in range(start, min(9, n) + 1):
             
             c.append(i)
             newN = n - i
-            print("RECURSION: i = ", i, " c = " ,c , " n = ", newN, " k = ", k)
             self.findCombination(k-1, newN, i+1, c, res)
             c.pop()
-            print("After inner recursion, c = ",c)
             
-            print("\t\t")
             
         return
         
@@ -44,7 +41,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         
-        if(k <= 0) or (k > 9) or (n <= 0) or (n > 9):
+        if(k <= 0) or (k > 9) or (n <= 0):
             return []
         
         #min solution
