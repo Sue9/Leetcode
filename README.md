@@ -26,6 +26,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 079 | Word Search 					| Medium 	| Backtracking 					| Python (5.11%) 			| 5
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
+092 | Reverse Linked List II 		| 
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
@@ -50,7 +51,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
 203-2 | iteratively 				| Easy 		| Linked List, iterative way 	| Python (78.05%)
 204 | Count Primes 					| Easy 		| Math 							| Python (91.52%) 	| 5
-206 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
+206-1 | Reverse Linked List (iterative)| Easy		| Linked List 					| Python (100%)
 206-2 | recursive					|			|								| Python (6.77%)
 216 | Combination Sum III 			| Medium  	| Backtracking 					| Python (99.86%) 			| 4
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
