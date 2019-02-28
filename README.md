@@ -4,6 +4,7 @@
 ID  | Problem 				       	| Difficulty| Topic                        	| Solutions (faster than)	|Rate(0-5)
 ----|------------------------------	|-----------|------------------------------	|---------------------------|------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
+002 | Add Two Numbers 				| Medium 	| Linked List  					| Python (90.21%) 			| 3
 007 | Reverse Integer 				| Easy		|								| Python (100%)
 013 | Roman to Integer 				| Easy 		| 								| Python (15.40%)
 017 | Letter Combinations of a Phone Number | Medium | Backtracking 			| Python (100%) 			| 4
@@ -48,6 +49,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 189 | Rotate Array  				| Easy  	| 								| Python (96.79%)
 198 | Horse
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
+200 | Number of Islands 			| Medium  	| DFS 							| Python (44.43%) 			| 4
 202 | Happy Number
 203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
 203-2 | iteratively 				| Easy 		| Linked List, iterative way 	| Python (78.05%)
@@ -67,6 +69,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 287 | Find the Duplicate Number
 292 | Nim Game						| Easy		| 								| Python (94.98%)
 326 | Power of Three				| Easy 		| 1162261467					| Python (65.91%)
+328 | Odd Even Linked List 			| Medium 	| Linked List 					| Python (100%) 			|5
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
 344 | Reverse String				| Easy		| 								| Python (1.64%)
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python (0%???)
@@ -76,6 +79,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 387 | First Unique Character in a String | Easy	| 								| Python (8.08%)
 389 | Find the Difference			| Easy		| 								| Python (71.05%)
 412 | Fizz Buzz						| Easy		| 								| Python (100%)
+445 | Add Two Numbers II 			| Medium 	| Linked List 					| Python (84.93%) 			| 3
 448 | Find All Numbers Disappeared in an Array | Easy | Inline Trick			| Python (62.07%)
 454 | 4Sum II 						| Medium	| Hashmap						| Python (67.42%)
 461 | Hamming Distance				| Easy		| Bit Manipulation				| Python (100%)
