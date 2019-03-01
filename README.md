@@ -8,10 +8,12 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 007 | Reverse Integer 				| Easy		|								| Python (100%)
 013 | Roman to Integer 				| Easy 		| 								| Python (15.40%)
 017 | Letter Combinations of a Phone Number | Medium | Backtracking 			| Python (100%) 			| 4
+019 | Remove Nth Node From End of List | Medium | Linked List 					| Python ()
 020 | Valid Parentheses 			| Easy 		| Stack							| Python (79.66%)
-021 | Merge Two Sorted Lists 		| Easy		| Linked Lists 					| Python (23.51%)
+021 | Merge Two Sorted Lists 		| Easy		| Linked List 					| Python (23.51%)
 021-2 | (shorter version)				|			|								| Python (92.27%)
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
+024 | Swap Nodes in Pairs 			| Medium 	| Linked List 					| Python (100%) 			| 3
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 039 | Combination Sum 				| Medium 	| Backtracking 					| Python (60.89%) 			| 4
@@ -25,6 +27,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 077 | Combinations 					| Medium 	| Backtracking 					| Python (59.96%)			| 5
 078 | Subsets 						| Medium 	| Backtracking					| Python (100%) 			| 4 
 079 | Word Search 					| Medium 	| Backtracking 					| Python (5.11%) 			| 5
+082 | Remove Duplicates from Sorted List II | Medium | Linked List 				| Python (100%) 			| 3
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 086 | Partition List 				| Medium 	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
@@ -69,7 +72,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 287 | Find the Duplicate Number
 292 | Nim Game						| Easy		| 								| Python (94.98%)
 326 | Power of Three				| Easy 		| 1162261467					| Python (65.91%)
-328 | Odd Even Linked List 			| Medium 	| Linked List 					| Python (100%) 			|5
+328 | Odd Even Linked List 			| Medium 	| Linked List 					| Python (100%) 			| 5
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
 344 | Reverse String				| Easy		| 								| Python (1.64%)
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python (0%???)
