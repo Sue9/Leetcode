@@ -21,6 +21,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 046 | Permutations                 	| Medium   	| Backtracking                 	| Python (28.62%) 			| 5
 047 | Permutations II 				| Medium 	| Backtracking 					| Python (77.26%) 			| 4
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
+061 | Rotate List 					| Medium 	| Linked List, Two Pointers 	| Python (100%) 			| 5
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
