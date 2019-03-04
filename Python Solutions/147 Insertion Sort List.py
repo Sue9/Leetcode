@@ -48,5 +48,3 @@ class Solution(object):
         
         return self._insertionSortList(head, None)
         
-
-=
