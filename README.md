@@ -14,6 +14,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 021-2 | (shorter version)				|			|								| Python (92.27%)
 022 | Generate Parentheses			| Medium	| DFS							| Python (64.58%)
 024 | Swap Nodes in Pairs 			| Medium 	| Linked List 					| Python (100%) 			| 3
+025 | Reverse Nodes in k-Group 		| Hard 		| Linked List 					| Python (99.84%) 			| 4
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
 038	| Count and Say					| Easy		|								| Python (48.33%)
 039 | Combination Sum 				| Medium 	| Backtracking 					| Python (60.89%) 			| 4
@@ -45,6 +46,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 141 | Linked List Cycle 			| Easy 		| Linked list, two pointers 	| Python (94.54%) 			| 5
 143 | Reorder List 					| Medium 	| Linked List 					| Python (70.14%) 			| 3
+147 | Insertion Sort List 			| Medium 	| Linked List 					| Python (33.55%) 			| 3
 155 | Min Stack 					| Easy 		| Stack 						| Python (91.13%) 			| 3
 160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
