@@ -23,6 +23,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 047 | Permutations II 				| Medium 	| Backtracking 					| Python (77.26%) 			| 4
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
 061 | Rotate List 					| Medium 	| Linked List, Two Pointers 	| Python (100%) 			| 5
+064 | Minimum Path Sum 				| Medium 	| Dynamic Programming 			| Python (14.12%) 			| 4 
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
@@ -41,6 +42,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree 					| Python (37.9%)
 110 | Balanced Binary Tree 			| Easy		| Tree 							| Python (42.35%)
 118 | Pascal Triangle				| Easy		|								| Python (100%)
+120 | Triangle 						| Medium 	| Dynamic Programming 			| Python (34.59%) 			| 3
 121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python (100%)
 125 | Valid Palindrome				| Easy		|								| Python (3.92%)
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
