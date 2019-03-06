@@ -34,6 +34,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 086 | Partition List 				| Medium 	| Linked List 					| Python (100%) 			| 4
 088 | Merge Sorted Array        	| Easy 		| Two Pointers 					| Python (41.01%)
+091 | Decode Ways 					| Medium 	| Dynamic Programming 			| Python (92.33%)			| 5
 092 | Reverse Linked List II 		| Medium 	| Linked List 					| Python (100%) 			| 5
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
