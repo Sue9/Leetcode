@@ -74,6 +74,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
 268 | Missing Number			   	| Easy     	| Bit Manipulation 			   	| Python (13.86%)
+279 | Perfect Squares 				| Medium 	| Dynamic Programming 			| Python (58.80%) 			| 3
 283 | Move Zeroes					| Easy		| 								| Python (21.09%)
 287 | Find the Duplicate Number
 292 | Nim Game						| Easy		| 								| Python (94.98%)
