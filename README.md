@@ -23,6 +23,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 047 | Permutations II 				| Medium 	| Backtracking 					| Python (77.26%) 			| 4
 053	| Maximum Subarray				| Easy		| DP: Kadene algorithm			| Python (24.45%)
 061 | Rotate List 					| Medium 	| Linked List, Two Pointers 	| Python (100%) 			| 5
+062 | Unique Paths 					| Medium 	| Dynamic Programming 			| Python (100%) 			| 3
+063 | Unique Paths II 				| Medium 	| Dynamic Programming 			| Python (97.47%) 			| 3
 064 | Minimum Path Sum 				| Medium 	| Dynamic Programming 			| Python (14.12%) 			| 4 
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
@@ -82,6 +84,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 326 | Power of Three				| Easy 		| 1162261467					| Python (65.91%)
 328 | Odd Even Linked List 			| Medium 	| Linked List 					| Python (100%) 			| 5
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
+343 | Integer Break 				| Medium 	| Dynamic Programming 			| Python (58.31%) 			| 4
 344 | Reverse String				| Easy		| 								| Python (1.64%)
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python (0%???)
 349 | Intersection of Two Arrays   	| Easy 		| Hash Table 					| Python (30.31%)
