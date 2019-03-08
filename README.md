@@ -59,7 +59,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 172 | Factorial Trailing Zeroes		| Easy		| Math 							| Python (99.01%)
 182 | Duplicate Emails				| Easy		|								| MySQL	(0%???)
 189 | Rotate Array  				| Easy  	| 								| Python (96.79%)
-198 | Horse
+198 | Horse Robber 					| Easy 	 	| Dynamic Programming 			| Python (100%) 			| 5
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
 200 | Number of Islands 			| Medium  	| DFS 							| Python (44.43%) 			| 4
 202 | Happy Number
