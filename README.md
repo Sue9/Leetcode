@@ -44,6 +44,8 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 104 | Maximum Depth of Binary Tree 	| Easy     	| DFS, Tree                    	| Python (58.98%)
 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree 					| Python (37.9%)
 110 | Balanced Binary Tree 			| Easy		| Tree 							| Python (42.35%)
+111 | Minimum Depth of Binary Tree 	| Easy 		| Tree 							| Python (24.96%) 			| 4
+112 | Path Sum 						| Easy 		| Tree 							| Python (31.35%) 			| 3
 118 | Pascal Triangle				| Easy		|								| Python (100%)
 120 | Triangle 						| Medium 	| Dynamic Programming 			| Python (34.59%) 			| 3
 121 | Best Time to Buy and Sell Stock| Easy		| Two Pointers					| Python (100%)
