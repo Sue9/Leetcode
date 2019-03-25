@@ -73,12 +73,14 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 213 | House Robber II 				| Medium 	| Dynamic Programming 			| Python (100%) 			| 3
 216 | Combination Sum III 			| Medium  	| Backtracking 					| Python (99.86%) 			| 4
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
+222 | Count Complete Tree Nodes 	| Easy 		| Tree 							| Python (34.76%) 			| 2
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
 230 | Kth Smallest Element in a BST | Medium 	| Tree 							| Python (16.16%) 	| 3
 234 | Palindrome Linked List 		| Easy 		| Linked list, Stack 			| Python (97.41%)	| 3
 237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 	| negative
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
+257 | Binary Tree Paths 			| Easy 		| DFS, Tree 					| Python (14.11%) 			| 4
 268 | Missing Number			   	| Easy     	| Bit Manipulation 			   	| Python (13.86%)
 279 | Perfect Squares 				| Medium 	| Dynamic Programming 			| Python (58.80%) 			| 3
 283 | Move Zeroes					| Easy		| 								| Python (21.09%)
@@ -96,6 +98,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 371 | Sum of Two Integers			| Easy		| Bit Manipulation				| Python (100%)
 387 | First Unique Character in a String | Easy	| 								| Python (8.08%)
 389 | Find the Difference			| Easy		| 								| Python (71.05%)
+404 | Sum of Left Leaves 			| Easy 		| Tree 							| Python (69.62%) 			| 2
 412 | Fizz Buzz						| Easy		| 								| Python (100%)
 445 | Add Two Numbers II 			| Medium 	| Linked List 					| Python (84.93%) 			| 3
 448 | Find All Numbers Disappeared in an Array | Easy | Inline Trick			| Python (62.07%)
