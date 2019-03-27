@@ -76,10 +76,11 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 222 | Count Complete Tree Nodes 	| Easy 		| Tree 							| Python (34.76%) 			| 2
 226 | Invert Binary Tree           	| Easy     	| Tree                         	| Python (5.15%)
-230 | Kth Smallest Element in a BST | Medium 	| Tree 							| Python (16.16%) 	| 3
-234 | Palindrome Linked List 		| Easy 		| Linked list, Stack 			| Python (97.41%)	| 3
+230 | Kth Smallest Element in a BST | Medium 	| Tree 							| Python (16.16%) 			| 3
+234 | Palindrome Linked List 		| Easy 		| Linked list, Stack 			| Python (97.41%)			| 3
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Tree 				| Python (42.49%) 			| 3
-237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 	| negative
+236 | Lowest Common Ancestor of a Binary Tree | Medium | Tree 					| Python (41.48%) 			| 5
+237 | Delete Node in a Linked List 	| Easy 		| Linked List 					| Python (98.17%) 			| negative
 238 | Product of Array Except Self 	| Medium   	|                              	| Python (97.52%)
 242 | Valid Anagram                	| Easy     	|                              	| Python (1.38%)
 257 | Binary Tree Paths 			| Easy 		| DFS, Tree 					| Python (14.11%) 			| 4
@@ -105,6 +106,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 437 | Path Sum III 					| Easy 		| Tree 							| Python (10.34%) 			| 5
 445 | Add Two Numbers II 			| Medium 	| Linked List 					| Python (84.93%) 			| 3
 448 | Find All Numbers Disappeared in an Array | Easy | Inline Trick			| Python (62.07%)
+450 | Delete Node in a BST 			| Medium 	| Tree 							| Python (29.24%) 			| 3
 454 | 4Sum II 						| Medium	| Hashmap						| Python (67.42%)
 461 | Hamming Distance				| Easy		| Bit Manipulation				| Python (100%)
 538 | Convert BST to Greater Tree   | Easy      | BST                           | Python (46.27%)
