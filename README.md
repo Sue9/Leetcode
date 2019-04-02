@@ -54,6 +54,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 141 | Linked List Cycle 			| Easy 		| Linked list, two pointers 	| Python (94.54%) 			| 5
 143 | Reorder List 					| Medium 	| Linked List 					| Python (70.14%) 			| 3
+145 | Binary Tree Postorder Traversal | Hard 	| Tree, Stack 					| Python (71.09%) 			| 5
 147 | Insertion Sort List 			| Medium 	| Linked List 					| Python (33.55%) 			| 3
 155 | Min Stack 					| Easy 		| Stack 						| Python (91.13%) 			| 3
 160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
