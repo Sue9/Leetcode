@@ -21,7 +21,26 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
+        #iterative way
+        if (root is None):
+            return []
         
+        res = []
+        stack = [["go", root]]
+        while stack:
+            top = stack.pop()
+            if (top[0] == "print"):
+                res.append(top[1].val)
+            else: #top[0] == "go"
+                if top[1].right:
+                    stack.append(["go", top[1].right])
+                stack.append(["print", top[1]])
+                if top[1].left:
+                    stack.append(["go", top[1].left])
+        return res
+        
+        """
+        #recursive way
         
         if (not root.left) and (not root.right):
             return [root.val]
@@ -31,6 +50,7 @@ class Solution(object):
             return self.inorderTraversal(root.left) + [root.val]
         else:
             return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
+        """
             
         
         

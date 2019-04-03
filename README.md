@@ -39,6 +39,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 091 | Decode Ways 					| Medium 	| Dynamic Programming 			| Python (92.33%)			| 5
 092 | Reverse Linked List II 		| Medium 	| Linked List 					| Python (100%) 			| 5
 094 | Binary Tree Inorder Traversal	| Medium   	| Hash Table? Stack, Tree     	| Python (43.82%)
+094-2 | (iterative way) 			| Medium 	| Tree, Stack 					| Python (8.3%) 			| 4
 098 | Validate Binary Search Tree 	| Medium 	| Tree 							| Python (9.64%) 			| 3
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
@@ -54,8 +55,10 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 141 | Linked List Cycle 			| Easy 		| Linked list, two pointers 	| Python (94.54%) 			| 5
 143 | Reorder List 					| Medium 	| Linked List 					| Python (70.14%) 			| 3
+144 | Binary Tree Preorder Traversal | Medium 	| Tree, Stack 					| Python (22.90%) 			| 4
 145 | Binary Tree Postorder Traversal | Hard 	| Tree, Stack 					| Python (71.09%) 			| 5
 147 | Insertion Sort List 			| Medium 	| Linked List 					| Python (33.55%) 			| 3
+150 | Evaluate Reverse Polish Notation | Medium | Stack 						| Python (21.26%) 			| 4
 155 | Min Stack 					| Easy 		| Stack 						| Python (91.13%) 			| 3
 160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
