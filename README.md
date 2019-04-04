@@ -43,6 +43,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 098 | Validate Binary Search Tree 	| Medium 	| Tree 							| Python (9.64%) 			| 3
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
+102 | Binary Tree Level Order Traversal | Medium | Tree, Queue 					| Python3 (5.80%) 			| 3
 104 | Maximum Depth of Binary Tree 	| Easy     	| DFS, Tree                    	| Python (58.98%)
 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree 					| Python (37.9%)
 110 | Balanced Binary Tree 			| Easy		| Tree 							| Python (42.35%)
