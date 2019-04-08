@@ -44,7 +44,9 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 100 | Same Tree                    	| Easy   	| Tree, DFS?                   	| Python (17.7%)
 101 | Symeetric Tree               	| Easy     	| Tree, DFS? BFS?              	| Python (100%)
 102 | Binary Tree Level Order Traversal | Medium | Tree, Queue 					| Python3 (5.80%) 			| 3
+103 | Binary Tree Zigzag Level Order Traversal | Medium | Tree, Queue 			| Python3 (15.97% ) 		| 2
 104 | Maximum Depth of Binary Tree 	| Easy     	| DFS, Tree                    	| Python (58.98%)
+107 | Binary Tree Level Order Traversal II | Easy | Tree, Queue 				| Python3 (17.18%) 			| 2
 108 | Convert Sorted Array to Binary Search Tree | Easy | Tree 					| Python (37.9%)
 110 | Balanced Binary Tree 			| Easy		| Tree 							| Python (42.35%)
 111 | Minimum Depth of Binary Tree 	| Easy 		| Tree 							| Python (24.96%) 			| 4
