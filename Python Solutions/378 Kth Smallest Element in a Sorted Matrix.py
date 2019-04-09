@@ -19,8 +19,8 @@ class Solution(object):
         #col = int(n / k)
         #row = n % k
         
-        l = matrix[0]
-        for m in (matrix[1:]):
+        l = []
+        for m in (matrix):
             l += m
         
         print(l)
