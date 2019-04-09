@@ -16,6 +16,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 024 | Swap Nodes in Pairs 			| Medium 	| Linked List 					| Python (100%) 			| 3
 025 | Reverse Nodes in k-Group 		| Hard 		| Linked List 					| Python (99.84%) 			| 4
 026 | Remove Duplicates from Sorted Array | Easy | Two Pointers 				| Python (50.36%)
+027 | Remove Element 				| Easy 		| Two Pointers 					| Python3 (99.18%) 			| 4
 038	| Count and Say					| Easy		|								| Python (48.33%)
 039 | Combination Sum 				| Medium 	| Backtracking 					| Python (60.89%) 			| 4
 040 | Combination Sum II 			| Medium 	| Backtracking 					| Python (73.57%) 			| 4
@@ -71,6 +72,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 189 | Rotate Array  				| Easy  	| 								| Python (96.79%)
 198 | Horse Robber 					| Easy 	 	| Dynamic Programming 			| Python (100%) 			| 5
 191 | Number of 1 Bits				| Easy		|								| Python (81.8%)
+199 | Binary Tree Right Side View 	| Medium 	| Queue 						| Python3 (23.71%) 			| 3
 200 | Number of Islands 			| Medium  	| DFS 							| Python (44.43%) 			| 4
 202 | Happy Number
 203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
@@ -106,6 +108,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 349 | Intersection of Two Arrays   	| Easy 		| Hash Table 					| Python (30.31%)
 350 | Intersection of Two Arrays II | Easy		| Hash Table 					| Python (99.76%)
 371 | Sum of Two Integers			| Easy		| Bit Manipulation				| Python (100%)
+378 | Kth Smallest Element in a Sorted Matrix | Medium | Heap 					| Python (34.76%) 			| 3
 387 | First Unique Character in a String | Easy	| 								| Python (8.08%)
 389 | Find the Difference			| Easy		| 								| Python (71.05%)
 404 | Sum of Left Leaves 			| Easy 		| Tree 							| Python (69.62%) 			| 2
