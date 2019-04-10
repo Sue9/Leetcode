@@ -30,9 +30,11 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 066 | Plus One						| Easy		| 								| Python (60.37%)
 069 | Sqrt(x)						| Easy		|								| Python (0.94%)
 070 | Climbing Stairs				| Easy		| Dynamic Programming			| Python (96.99%)
+075 | Sort Colors 					| Medium 	| Two Pointers 					| Python (50.34%) 			| 4
 077 | Combinations 					| Medium 	| Backtracking 					| Python (59.96%)			| 5
 078 | Subsets 						| Medium 	| Backtracking					| Python (100%) 			| 4 
 079 | Word Search 					| Medium 	| Backtracking 					| Python (5.11%) 			| 5
+080 | Remove Duplicates from Sorted Array II | Medium | Two Pointers 			| Python (18.84%) 			| 3
 082 | Remove Duplicates from Sorted List II | Medium | Linked List 				| Python (100%) 			| 3
 083 | Remove Duplicates from Sorted List | Easy	| Linked List 					| Python (100%) 			| 4
 086 | Partition List 				| Medium 	| Linked List 					| Python (100%) 			| 4

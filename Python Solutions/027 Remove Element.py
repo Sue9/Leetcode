@@ -11,11 +11,10 @@ class Solution:
     def removeElement(self, nums, val) -> int:
         k = 0
         for i in range(len(nums)):
-            print(nums)
-            print("i = ", i, "k = ", k)
+            
             if(nums[i] != val):
                 if(k != i):
-                    print("swap i nums[",i,"] and k nums[",k,"]")
+                    
                     #swap nums[i] and nums[k]
                     temp = nums[i]
                     nums[i] = nums[k]
