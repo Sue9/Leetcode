@@ -67,6 +67,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 150 | Evaluate Reverse Polish Notation | Medium | Stack 						| Python (21.26%) 			| 4
 155 | Min Stack 					| Easy 		| Stack 						| Python (91.13%) 			| 3
 160 | Intersection of Two Linked Lists | Easy 	| Linked list 					| Python (98.05%) 			| 4
+167 | Two Sum II - Input array is sorted | Easy | Two Pointers 					| Python (35.51%) 			| 3
 169 | Majority Element             	| Easy     	| Bit Manupulation             	| Python (99.61%)
 171 | Excel Sheet column Number    	| Easy     	|                              	| Python (82.73%)
 172 | Factorial Trailing Zeroes		| Easy		| Math 							| Python (99.01%)
@@ -79,10 +80,12 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 202 | Happy Number
 203	| Remove Linked List Elements 	| Easy 		| Linked List, recursive way 	| Python (1.63%)
 203-2 | iteratively 				| Easy 		| Linked List, iterative way 	| Python (78.05%)
-204 | Count Primes 					| Easy 		| Math 							| Python (91.52%) 	| 5
+204 | Count Primes 					| Easy 		| Math 							| Python (91.52%) 			| 5
 206-1 | Reverse Linked List (iterative)| Easy	| Linked List 					| Python (100%)
 206-2 | Reverse Linked List (recursive)| Easy	|								| Python (6.77%)
+209 | Minimum Size Subarray Sum 	| Medium 	| Two Pointers 	
 213 | House Robber II 				| Medium 	| Dynamic Programming 			| Python (100%) 			| 3
+215 | Kth Largest Element in an Array | Medium 	| Heap 							| Python (50.05) 			| 3
 216 | Combination Sum III 			| Medium  	| Backtracking 					| Python (99.86%) 			| 4
 217 | Contains Duplicate           	| Easy     	| Array, Set                   	| Python (77.98%)
 222 | Count Complete Tree Nodes 	| Easy 		| Tree 							| Python (34.76%) 			| 2
@@ -106,6 +109,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 338 | Counting Bits 				| Medium	| Bits							| Python (51.60%)
 343 | Integer Break 				| Medium 	| Dynamic Programming 			| Python (58.31%) 			| 4
 344 | Reverse String				| Easy		| 								| Python (1.64%)
+345 | Reverse Vowels of a String 	| Easy 		| Two Pointers 					| Python (28.05%) 			| 3
 347 | Top K Frequent Elements		| Medium	| Heap?							| Python (0%???)
 349 | Intersection of Two Arrays   	| Easy 		| Hash Table 					| Python (30.31%)
 350 | Intersection of Two Arrays II | Easy		| Hash Table 					| Python (99.76%)
