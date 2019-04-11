@@ -83,7 +83,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 204 | Count Primes 					| Easy 		| Math 							| Python (91.52%) 			| 5
 206-1 | Reverse Linked List (iterative)| Easy	| Linked List 					| Python (100%)
 206-2 | Reverse Linked List (recursive)| Easy	|								| Python (6.77%)
-209 | Minimum Size Subarray Sum 	| Medium 	| Two Pointers 	
+209 | Minimum Size Subarray Sum 	| Medium 	| Two Pointers 	 				| Python (31.09%) 			| 4
 213 | House Robber II 				| Medium 	| Dynamic Programming 			| Python (100%) 			| 3
 215 | Kth Largest Element in an Array | Medium 	| Heap 							| Python (50.05) 			| 3
 216 | Combination Sum III 			| Medium  	| Backtracking 					| Python (99.86%) 			| 4

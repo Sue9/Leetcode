@@ -14,34 +14,32 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        if (nums == []):
+            return 0
+        
+        if (len(nums) == 1):
+            return int(nums[0] >= s)
         
         l = 0
-        r = l+1
-        tempSum = nums[l] + nums[r]
+        r = l
+        tempSum = nums[l]
         hasResult = False
         res = len(nums)
         
-        while (l < len(nums) - 1) and (r < len(nums)):
-            print("l = ", l, " r = ",r)
+        while (l < len(nums)) and (r < len(nums)):
+            
             if (tempSum < s):
                 r += 1
                 if (r > len(nums) - 1):
                     break
                 tempSum += nums[r]
-            elif (tempSum > s):
-                tempSum -= nums[l]
-                l += 1
-            else: # tempSum == s
+            
+            else: # tempSum >= s
                 res = min(res, r - l + 1)
                 hasResult = True
-                
                 tempSum -= nums[l]
                 l += 1
-                r += 1
-                if (r > len(nums) - 1):
-                    print("Break")
-                    break
-                tempSum += nums[r]
+                
         
         if (hasResult):
             return res
