@@ -5,6 +5,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 ----|------------------------------	|-----------|------------------------------	|---------------------------|------------
 001 | Two Sum 						| Easy		| 								| Python (33.43%)
 002 | Add Two Numbers 				| Medium 	| Linked List  					| Python (90.21%) 			| 3
+003 | Longest Substring Without Repeating Characters | Medium | Sliding Window 	| Python (22.47%) 			| 4
 007 | Reverse Integer 				| Easy		|								| Python (100%)
 013 | Roman to Integer 				| Easy 		| 								| Python (15.40%)
 017 | Letter Combinations of a Phone Number | Medium | Backtracking 			| Python (100%) 			| 4
