@@ -61,6 +61,7 @@ ID  | Problem 				       	| Difficulty| Topic                        	| Solution
 125 | Valid Palindrome				| Easy		|								| Python (3.92%)
 136 | Single Number                	| Easy     	| Hash Table, Bit Manipulation 	| Python (99.65%)
 141 | Linked List Cycle 			| Easy 		| Linked list, two pointers 	| Python (94.54%) 			| 5
+142 | Linked List Cycle II 			| Medium 	| Linked List, fast slow pointers | Python (92.65%) 		| 5
 143 | Reorder List 					| Medium 	| Linked List 					| Python (70.14%) 			| 3
 144 | Binary Tree Preorder Traversal | Medium 	| Tree, Stack 					| Python (22.90%) 			| 4
 145 | Binary Tree Postorder Traversal | Hard 	| Tree, Stack 					| Python (71.09%) 			| 5
